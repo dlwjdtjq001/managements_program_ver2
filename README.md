@@ -55,11 +55,11 @@
 
 
 ### **아키텍처**
-![Image](https://github.com/user-attachments/assets/68773310-5fb9-4251-83df-81dab2a7d52a)
+![Image](https://github.com/user-attachments/assets/d1abce09-a1b1-486b-92e4-c6b2a30bf614)
 
 
 ### **ERD (Entity-Relationship Diagram)**
-![Image](https://github.com/user-attachments/assets/d1abce09-a1b1-486b-92e4-c6b2a30bf614)
+![Image](https://github.com/user-attachments/assets/68773310-5fb9-4251-83df-81dab2a7d52a)
 
 ## 5. 사용 방법
 
