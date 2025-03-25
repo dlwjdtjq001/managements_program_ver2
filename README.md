@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=header&text=managements&fontSize=90)
 # 학생·직원 통합 관리 프로그램
 
 ## 목차
